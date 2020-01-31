@@ -105,6 +105,10 @@ input, select, textarea {
 		line-height: 1.75em;
 	}
 
+	#Two {
+		line-height: 1em;
+	}
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
