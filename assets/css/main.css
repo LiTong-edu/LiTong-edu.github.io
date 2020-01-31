@@ -105,9 +105,6 @@ input, select, textarea {
 		line-height: 1.75em;
 	}
 
-	#two {
-		line-height: 0em;
-	}
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -134,7 +131,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2.25em 0;
+		margin: 0 0 0.25em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
