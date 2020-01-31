@@ -106,7 +106,7 @@ input, select, textarea {
 	}
 
 	#two {
-		line-height: 1em;
+		line-height: 0em;
 	}
 
 	a {
